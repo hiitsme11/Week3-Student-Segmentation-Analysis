@@ -1,0 +1,13 @@
+{
+  "rows": 600,
+  "features_used": [
+    "study_hours_per_week",
+    "attendance_percent",
+    "assignment_score",
+    "previous_exam_score",
+    "extracurricular_hours",
+    "class_participation"
+  ],
+  "selected_cluster_count": 2,
+  "note": "Cluster numbers are arbitrary labels, not student ranks."
+}
